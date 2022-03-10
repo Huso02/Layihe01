@@ -1,0 +1,351 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600&family=Roboto:ital,wght@0,100;1,400;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600&family=Oswald:wght@500&family=Roboto:ital,wght@0,100;1,400;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates:ital,wght@0,100;0,200;0,500;1,200&family=Montserrat:wght@500;600&family=Oswald:wght@500&family=Roboto:ital,wght@0,100;1,400;1,900&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.div1{
+    background-image: url(./Group\ 7838.png);
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 800px;
+}
+.div1m{
+    display: none;
+}
+.y{
+    display: flex;
+    justify-content: space-between;
+    width: 90%;
+    padding: 20px 0 0 60px;
+}
+.main{
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+   width: 43%;
+}
+.elaqe  {
+    display: flex;
+    justify-content: space-between;
+    width: 25%;
+    padding-top: 25px;
+}
+.main img{
+    object-fit: contain;
+}
+.main2 h3{
+    z-index: 5;
+    border-bottom-style: dashed;
+    width: 20%;
+    border-bottom-color: #d6ff0e;
+}
+span{
+    color: white;
+}
+.main2{
+    margin-left: 10%;
+}
+.main2 h1{
+    text-transform: uppercase;
+    color: #30FFCD;
+    font-size: 64px;
+    margin-top: 10%;
+    font-family: 'Montserrat', sans-serif;
+
+}
+.main2 p{
+    font-size: large;
+    width: 50%;
+    margin-top: 3%;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+    color: aliceblue; 
+}
+.main2 h3{
+    margin-top: 4%;
+    color: antiquewhite;
+    font-size: 18px;
+    font-family: 'Montserrat', sans-serif;
+}
+.x{
+    display: flex;
+    width: 80%;
+    justify-content: space-around ;
+    align-items: center;
+    margin: 7% 0%;
+}
+.x h1{
+    color: #382459;
+    font-family: 'Montserrat', sans-serif;
+}
+.x button{
+    padding: 1% 3%;
+    border-radius: 16px;
+    border: 2px solid #FF1DC0   ;
+    background-color: #FF1DC0; 
+    font-family: 'Montserrat', sans-serif;
+    color: #FFFFFF;
+}
+button:hover{
+    background: transparent;
+    color: #FF1DC0;
+   
+}
+
+button:active{
+    background: transparent;
+    color: #FF1DC0;
+   
+}
+.z{
+    display: flex;
+    margin-left: 10%;
+    margin-right: 10%;
+    gap: 5%;
+}
+.z h1,p{
+    color: #382459;
+    font-family: 'Montserrat', sans-serif;
+}
+.z img{
+    margin-bottom: 50px;
+    height: 80px;
+}
+.raket h1,p{
+    width: 60%;
+}
+.papag h1,p{
+    width: 90%;
+}
+.z h1{
+    margin-bottom: 10%;
+}
+.z p{
+    margin-bottom: 20%;
+    font-style: medium;
+    font-size: 16px;
+}
+.div3{
+    background-color: #382459;
+    position: relative;
+    width: 100%;
+}
+.derece1{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.derece{
+    margin-top: 7%;
+    width: 70%;
+}
+.derece h1, p, h6{
+    margin-top: 5%;
+}
+.div3 p,h6{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 100;
+}
+.div3 h1{
+    font-family: 'Oswald', sans-serif;
+    font-size: 40px;
+    font-style: medium;
+    font-weight: 400;
+    color: #30FFCD;
+}
+.div3 h6{
+    font-size: 10px;
+    color:#c9c6c6;
+}
+.div3 p{
+    color: #FFFFFF;
+    width: 65%;
+}
+.div3 img{
+    position: absolute;
+    z-index: 1;
+    margin-top: -3%;
+    margin-left: 80%;
+}
+.div4 h1{
+    margin: 6% 10%;
+    font-family: 'Oswald', sans-serif;
+    font-size: 47px;
+    color: #382459;
+    font-family: 'Montserrat', sans-serif;
+}
+.div4 p{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    font-weight: 100;
+    margin-bottom: 30%;
+    color:#3a1872;
+}
+.div4 h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 25px;
+    margin-bottom: 5%;
+    color: #382459;
+}
+.yazi{
+    width: 100%;
+    height: auto;
+    display: flex;
+    
+}
+.yazi1,.yazi3{
+    width: 15%;
+}
+.yazi2{
+    width: 27%;
+}
+.yazi1{
+    margin-left: 10%;
+}
+.yazi2,.yazi3{
+    margin-left: 5%;
+}
+.div5{
+    width: 100%;
+    z-index: -1;
+    background-color: #382459;
+    display: flex;
+    justify-content: flex-start;
+}
+.sis{
+    margin-left: 10%;
+    width: 32%;
+}
+.web{
+    margin-left: 10%;
+    width: 30%;
+}
+.div5 h1{
+    font-family: 'Oswald', sans-serif;
+    color: #30FFCD;
+    font-weight: 500;
+    margin: 15% 0;
+}
+.div5 ul{
+    font-family: 'Montserrat', sans-serif;
+    list-style-type: none;
+    color: #FFFFFF;
+}
+.div5 button{
+    margin: 15% 0;
+    padding: 2%;
+    border-radius: 16px;
+    border: 2px solid    ;
+    background-color: #2E1E49; 
+    font-family: 'Montserrat', sans-serif;
+    color: #33DFC0;
+}
+.div5 button:hover{
+    color: #c9c6c6;
+}
+.div6{
+    width: 100%;
+    position: relative;
+    display: flex;
+}
+.div6 h1{
+    margin-top: 10%;
+    margin-left: 10%;
+    font-size: 47px;
+    color: #382459;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 700;
+}
+.div6 p{
+    margin-top: 5%;
+    margin-left: 10%;
+    margin-bottom: 15%;
+    width: 40%;
+    color: #382459;
+    font-family: 'Montserrat', sans-serif;
+}
+.div6 img{
+    position:absolute;
+    z-index: 1;
+    right: 0;
+}
+.div7{
+    z-index: 2;
+    background-color:#382459 ;
+    display: flex;
+    position: relative;
+}
+.mura{
+    margin-left: 10%;
+    margin-top: 10%;
+}
+.div7 h1{
+    color:#30FFCD;
+    font-family: 'Oswald', sans-serif;
+    font-size: 47px;
+    width: 55%;
+}
+.div7 p{
+    color: #fff;
+    width: 70%;
+    font-family: 'Montserrat', sans-serif;
+}
+.div7 button{
+    margin-bottom: 50px;
+    margin-top: 7%;
+    padding: 2% 5%;
+    border-radius: 16px;
+    border: 2px solid #FF1DC0   ;
+    background-color: #FF1DC0; 
+    font-family: 'Montserrat', sans-serif;
+    color: #FFFFFF;
+}
+.div7 button:hover{
+    background-color: #FFFFFF;
+    color: #FF1DC0;
+}
+.div8{
+    display: flex;
+    height: 200px;
+}
+.algo{
+    margin-top: 5%;
+    margin-left: 10%;
+    margin-bottom: 5%;
+    width: 10%;
+    display: flex;
+    flex-direction: column;
+    height: 100px;
+    justify-content: space-between;
+}
+.elaqe2{
+    margin-top: 4%;
+    margin-left: 10%;
+    color: #2E1E49;
+}
+.elaqe2 p{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+}
+.elaqe2 h5{
+    margin-top: 20%;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+}
+.azi{
+    margin-left: 30%;
+    margin-top: 5%;
+    display: flex;
+    flex-direction: column;
+}
+.azi1{
+    margin-bottom:10%;
+}
+.dmenu {
+    display: none;
+}

@@ -1,0 +1,224 @@
+@media (min-width:320px) and (max-width:850px){
+    .main{
+        position: relative;
+    }
+    .log1{
+        margin-top: 30%;
+        position: absolute;
+        display: flex;
+        width: 85vw;
+        padding-right: 34px;
+        justify-content: space-between;
+    }
+    .log2{
+        position: absolute;
+        top: 450px;
+        left: 170px;
+    }
+    .log3{
+        position: absolute;
+        top: 476px;
+    }
+    .elaqe{
+        display: none;
+    }
+    .main2 h1{
+        width: 300px;
+        margin-top: 50%;
+        font-family: Oswald;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 28px;
+        line-height: 32px;
+        letter-spacing: 0.03em;
+        text-transform: uppercase;
+        color: #30FFCD;
+    }
+    .main2 p{
+        font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 16px;
+width: 63%;
+color: #FFFFFF;
+    }
+    .main2 h3{
+        font-family: Montserrat;
+font-style: normal;
+font-weight: 600;
+font-size: 13px;
+line-height: 17px;
+letter-spacing: 0.05em;
+width: 53%;
+color: #FFFFFF;
+    }
+    .dmenu {
+        display: flex;
+    }
+    .div6 img{
+        display: none;
+    }
+    .x,.derece1,.z,.yazi,.div5,.div6,.div7,.div8{
+        display: block;
+    }
+    .div1{
+        height: 600px;
+    }
+    .x h1{
+        margin-left: 10%;
+        font-family: Oswald;
+font-style: normal;
+font-weight: bold;
+font-size: 24.7px;
+line-height: 50px;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+    }
+    .z h1{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 20px;
+    color: #382459;
+    }
+    .z p{
+        font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+color: #382459;
+    }
+    .div3 h1{
+        font-family: Oswald;
+font-style: normal;
+font-weight: 500;
+font-size: 40px;
+line-height: 33px;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: #30FFCD;
+    }
+    .div3 p{
+width: 200px;
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+color: #FFFFFF;
+    }
+    .div3 h6{
+        font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 9px;
+line-height: 15px;
+color: #FFFFFF;
+opacity: 0.62;
+    }
+    .div4 h1{
+        font-family: Oswald;
+font-style: normal;
+font-weight: bold;
+font-size: 24.7px;
+line-height: 28px;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: #382459;
+    }
+    .div4 h2{
+        width: 50px;
+font-family: Montserrat;
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 20px;
+color: #382459;
+    }
+    .div4 p{
+        width: 200px;
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 16px;
+color: #382459;
+    }
+    .derece1{
+        padding-top: 10%;
+    }
+    .x button{
+        margin-left: 10%;
+        position: absolute;
+        margin-top: 630px;
+    }
+    .papag{
+        padding-bottom: 7% ;
+    }
+    .yazi2,.yazi3{
+        margin-left: 10%;
+    }
+    .div6 h1{
+        font-family: Oswald;
+font-style: normal;
+font-weight: bold;
+font-size: 24.7px;
+line-height: 28px;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: #382459;
+    }
+    .div3{
+     height: 950px;
+    }
+    .div3 img{
+        margin-left: 60%;
+    }
+    .div5 h1{
+        padding-top: 10%;
+    }
+    .div7 img{
+        width: 60%;
+        position: absolute;
+        right: 0;
+        top: -40px;
+    }
+    .div7{
+        position: relative;
+    }
+    .div7 h1{
+        font-family: Oswald;
+        padding-top: 60%;
+font-style: normal;
+font-weight: bold;
+font-size: 24.7px;
+line-height: 28px;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: #30FFCD;
+    }
+    .div5 ul{
+        width: 250px;
+    }
+    .azi{
+        padding-bottom: 30px;
+    }
+    .div6{
+        height: auto;
+    }
+    .div6 p{
+        width: 260px;
+        padding-top: 6%;
+        padding-left: 10%;
+        padding-bottom: 30%;
+    }
+    .div6 h1{
+        padding-left: 10%;
+        width: 300px;
+        padding-top: 10%;
+    }
+    
+}
